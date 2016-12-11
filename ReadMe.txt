@@ -1,0 +1,1 @@
+Il seguente bot , tramite il comando gobbis ti visualizza un messaggio (/gobbis)
